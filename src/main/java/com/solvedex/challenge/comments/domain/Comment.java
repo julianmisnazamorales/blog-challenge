@@ -1,2 +1,4 @@
-package com.solvedex.challenge.comments.domain;public class Comment {
+package com.solvedex.challenge.comments.domain;
+
+public class Comment {
 }

@@ -1,2 +1,4 @@
-package com.solvedex.challenge.comments.infrastructure;public class CommentRepository {
+package com.solvedex.challenge.comments.infrastructure;
+
+public class CommentRepository {
 }
